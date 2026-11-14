@@ -1,0 +1,7 @@
+P104|Apple|fruits|100.0|50
+P103|Keyboard|electronic device|2000.0|10
+P106|Bed|furniture|20000.0|5
+P105|orange|fruits|70.0|20
+P102|mouse|elctronic device|500.0|0
+P101|laptop|elctronic device|100000.0|20
+P107|chairs|furniture|999.0|10
